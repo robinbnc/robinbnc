@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student at 42Paris
+Software Engineer student at 42Paris.
 
 
 ## 🌐 Get in touch:
@@ -14,31 +14,25 @@ Student at 42Paris
 
   <h3>❤️&emsp;Side Projects</h3>
   
-  | Project link | Description |  Languages/Techs | Final grade |
-  | :- | :-: | :-: | :-: |
-  | <a href="https://github.com/cberganz/ft_printf_v2_remastered">ft_printf_v2</a> | A benchmark of my C skills after 1 year @42 | <img alt="C"     src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> | 125/125 |
-  | <a href="https://github.com/cberganz/bootcamp_python">bootcamp_python</a> | An introduction to python programming | <img alt="python"     src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"> | In progress.. |
-  | <a href="https://github.com/cberganz/CodinGame">Codingame</a> | My solution for the CodinGame Spring Challenge 2022 | <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"> | Legendary challenger |
- 
   <h3>📚&emsp;Common Core Projects</h3>
   
   | Project link | Description |  Languages/Techs | Final grade |
   | :- | :-: | :-: | :-: |
   | <a href="https://github.com/cberganz/ft_transcendence">ft_transcendence</a> | A full-stack infrastructure for an online multiplayer game | <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"> <img alt="Nest" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?logo=nestjs&logoColor=white"> <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white"> <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"> <img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?logo=Prisma&logoColor=white"> | 100/100 |
   | <a href="https://github.com/cberganz/Webserv">Webserv</a> | A small HTTP protocol webserver from scratch | <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"> <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"> <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"> | 125/125 |
-  | <a href="https://github.com/cberganz/Inception">Inception</a> | A Docker LEMP stack infrastructure with additional Redis, Adminer, FTP and Backup services | <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white"> <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"> <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white"> <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?logo=nginx&logoColor=white"> <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?logo=debian&logoColor=white"> <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"> <img alt="Wordpress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=WordPress&logoColor=white"> | 125/125 |
+  | <a href="https://github.com/cberganz/Inception">Inception</a> | A Docker LEMP stack infrastructure with additional Redis, Adminer, FTP and Backup services | <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white"> <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"> <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white"> <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?logo=nginx&logoColor=white"> <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?logo=debian&logoColor=white"> <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"> <img alt="Wordpress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=WordPress&logoColor=white"> | 100/100 |
   | <a href="https://github.com/cberganz/ft_containers">ft_containers</a> | Custom version of C++98 compliant containers : Vector, Stack, Map, Set (with RBTree) | <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"> | 125/125 |
   | <a href="https://github.com/cberganz/CPP_modules">CPP_modules</a> | An introductive project to C++ programming | <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"> | 100/100 |
   | <a href="https://github.com/cberganz/Cub3d">Cub3D</a> | A Raycasting project aiming to reproduce Wolfenstein 3D | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> | 125/125 |
   | Netpractice | An introduction to networking and IP address | N/A | 100/100 |
   | <a href="https://github.com/cberganz/Minishell">Minishell</a> | A custom implementation of bash based on the posix version | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> | 125/125 |
   | <a href="https://github.com/cberganz/Philosophers">Philosophers</a> | An introduction to multithreading and forking using mutexes and semaphores | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> | 125/125 |
-  | <a href="https://github.com/cberganz/Push_swap">Push_swap</a> | A sorting algorithm using 2 stacks and limited operations | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> | 125/125 |
-  | <a href="https://github.com/cberganz/Minitalk">Minitalk</a> | Using unix signals to send messages between a server and a client | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> | 125/125 |
+  | <a href="https://github.com/cberganz/Push_swap">Push_swap</a> | A sorting algorithm using 2 stacks and limited operations | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> | 100/100 |
+  | <a href="https://github.com/cberganz/Minitalk">Pipex</a> | Using unix signals to send messages between a server and a client | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> | 100/100 |
   | <a href="https://github.com/cberganz/so_long">So_long</a> | A graphical introduction project using an educative library | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> | 125/125 |
-  | <a href="https://github.com/cberganz/ft_printf_v2_remastered">ft_printf</a> | Custom version of the libc printf function | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> | 125/125 |
-  | <a href="https://github.com/cberganz/get_next_line">get_next_line</a> | A C function to get lines from a file descriptor using a buffer size | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> | 125/125 |
-  | BornToBeRoot | A sysadmin introduction project on a virtual machine | <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"> <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?logo=debian&logoColor=white"> | 125/125 |
+  | <a href="https://github.com/cberganz/ft_printf_v2_remastered">ft_printf</a> | Custom version of the libc printf function | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> | 100/100 |
+  | <a href="https://github.com/cberganz/get_next_line">get_next_line</a> | A C function to get lines from a file descriptor using a buffer size | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> | 100/100 |
+  | BornToBeRoot | A sysadmin introduction project on a virtual machine | <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"> <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?logo=debian&logoColor=white"> | 100/100 |
   | <a href="https://github.com/cberganz/libft">Libft</a> | My custom implementation of libc functions | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> | 125/125 |
 
 
