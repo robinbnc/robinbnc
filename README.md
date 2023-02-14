@@ -1,8 +1,8 @@
 # 💫 About Me:
-42 student
+Student at 42Paris
 
 
-## 🌐 Socials:
+## 🌐 Get in touch:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/robin-bicanic-1a9028160) 
 
 # 💻 Tech Stack:
